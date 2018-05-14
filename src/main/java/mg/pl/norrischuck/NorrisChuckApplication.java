@@ -1,4 +1,4 @@
-package guru.springframework.norrischuck;
+package mg.pl.norrischuck;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

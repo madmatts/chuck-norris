@@ -1,4 +1,4 @@
-package guru.springframework.norrischuck;
+package mg.pl.norrischuck;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
